@@ -414,12 +414,6 @@ https://github.com/weareblahs/unifi-tv-placeholders/raw/main/unifisports20210720
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-logo="" tvg-chno="7" channel-id="7" group-title="Kids"
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AstroCitra.my" tvg-name="Astro Citra" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysian Variety",Astro Citra
-http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Malaysian Variety",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="Boo" tvg-country="MY" tvg-language="" tvg-logo="" group-title="Movies",Boo
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
